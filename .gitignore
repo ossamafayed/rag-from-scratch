@@ -1,0 +1,6 @@
+.venv/
+chroma_db/
+data/*.txt
+__pycache__/
+*.pyc
+install.log
